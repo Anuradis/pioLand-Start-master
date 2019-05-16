@@ -1,0 +1,22 @@
+{
+  "name": "pioland-start-master",
+  "version": "1.0.0",
+  "description": "TinDog Starting Files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anuradis/pioLand-Start-master.git"
+  },
+  "author": "PP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anuradis/pioLand-Start-master/issues"
+  },
+  "homepage": "https://github.com/Anuradis/pioLand-Start-master#readme",
+  "dependencies": {
+    "zenscroll": "^4.0.2"
+  }
+}

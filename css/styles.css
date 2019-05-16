@@ -1,4 +1,10 @@
 /* Body */
+.smooth-container {
+  scroll-behavior: smooth;
+ }
+ /* html {
+  scroll-behavior: smooth;
+} */
 body {
   font-family: 'ubuntu', sans-serif;
   text-align: center;
